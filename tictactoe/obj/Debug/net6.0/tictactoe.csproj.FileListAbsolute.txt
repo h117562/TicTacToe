@@ -1,0 +1,14 @@
+D:\C#\tictactoe\tictactoe\bin\Debug\net6.0\tictactoe.exe
+D:\C#\tictactoe\tictactoe\bin\Debug\net6.0\tictactoe.deps.json
+D:\C#\tictactoe\tictactoe\bin\Debug\net6.0\tictactoe.runtimeconfig.json
+D:\C#\tictactoe\tictactoe\bin\Debug\net6.0\tictactoe.dll
+D:\C#\tictactoe\tictactoe\bin\Debug\net6.0\tictactoe.pdb
+D:\C#\tictactoe\tictactoe\obj\Debug\net6.0\tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\tictactoe\tictactoe\obj\Debug\net6.0\tictactoe.AssemblyInfoInputs.cache
+D:\C#\tictactoe\tictactoe\obj\Debug\net6.0\tictactoe.AssemblyInfo.cs
+D:\C#\tictactoe\tictactoe\obj\Debug\net6.0\tictactoe.csproj.CoreCompileInputs.cache
+D:\C#\tictactoe\tictactoe\obj\Debug\net6.0\tictactoe.dll
+D:\C#\tictactoe\tictactoe\obj\Debug\net6.0\refint\tictactoe.dll
+D:\C#\tictactoe\tictactoe\obj\Debug\net6.0\tictactoe.pdb
+D:\C#\tictactoe\tictactoe\obj\Debug\net6.0\tictactoe.genruntimeconfig.cache
+D:\C#\tictactoe\tictactoe\obj\Debug\net6.0\ref\tictactoe.dll
